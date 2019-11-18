@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+
+.navBar{
+    background-color: aqua;
+
+    /* Margin/Padding */
+    margin: -1%;
+    padding: 15px;
+}
+
+.navBar ul{
+    list-style-type: none;
+}
